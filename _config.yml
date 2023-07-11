@@ -107,7 +107,7 @@ author:
   name             : "Yoonsu Shim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/yoon-su/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
